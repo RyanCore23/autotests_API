@@ -1,0 +1,9 @@
+<person>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <age>30</age>
+    <address>
+        <city>New York</city>
+        <street>Main Street</street>
+    </address>
+</person>
